@@ -48,7 +48,7 @@ ul li a:before {
 ul li a::after {
   content: "";
   position: absolute;
-  background-color: red;
+  background-color: #2e3133;
   top: -40px;
   left: 0;
   width: 100%;
